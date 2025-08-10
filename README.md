@@ -1,4 +1,4 @@
-# Android Configurations
+t# Android Configurations
 Add the INTERNET permission to your AndroidManifest.xml. 
 
 AndroidManifest.xml
